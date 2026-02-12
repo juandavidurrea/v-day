@@ -12,11 +12,8 @@ const gifStages = [
 const noMessages = [
     "No",
     "¿Estás segura, es porque canto canciones infantiles? 🤔",
-    "poq? po favo... 🥺",
-    "Si dices que no, morderé el cable como el gatito...",
-    "Estaré muy triste... 😢",
-    "¿Por favor??? 💔",
-    "No me hagas esto...",
+    "poq? po favo... ",
+    "Si dices que no, morderé el cable como el gatito...🥺",
     "¡Última oportunidad! 😭",
     "De todos modos no puedes atraparme 😜"
 ]
