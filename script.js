@@ -12,10 +12,10 @@ const gifStages = [
 const noMessages = [
     "No",
     "¿Estás segura, es porque canto canciones infantiles? 🤔",
-    "poq? po favo... ",
+    "poq? prometo que no te vuelvo a cantar la de hacer popo ",
     "Si dices que no, morderé el cable como el gatito...🥺",
     "¡Última oportunidad! 😭",
-    "De todos modos no puedes atraparme 😜"
+    "De todos modos no puedes atraparme jejeje😜"
 ]
 
 const yesTeasePokes = [
